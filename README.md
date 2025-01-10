@@ -1,5 +1,5 @@
 # FireBase Chat App 💬🔥
-A responsive chat application powered by Firebase. The app enables seamless real-time messaging with features like secure authentication, chat history, and dynamic updates. Designed for fast and efficient communication, it combines a sleek user interface with robust backend support for a smooth chatting experience.
+A simple and responsive chat application powered by Firebase. The app enables seamless real-time messaging with features like secure authentication, chat history, and dynamic updates. Designed for fast and efficient communication, it combines a sleek user interface with robust backend support for a smooth chatting experience.
 
 
 ## Installation
