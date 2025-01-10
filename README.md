@@ -6,12 +6,21 @@ A new Flutter project.
 <table>
 
 <tr>
-    <td> <img src="https://user-images.githubusercontent.com/24971915/136279943-8540a417-58f6-4f7b-922d-2828af7f2f8d.png" width="200" /></td>
-    <td><img src="https://user-images.githubusercontent.com/24971915/136279945-019d8a95-7ced-494e-af58-63b093196ad1.png" width="200" /></td>
-    <td> <img src="https://user-images.githubusercontent.com/24971915/136279914-93b63a3b-2dd9-49c9-abf5-b2a590c1888a.png" width="200" /></td>
-<tr> 
-    <td><img src="https://user-images.githubusercontent.com/24971915/136279926-3fb83558-10fe-4a9f-93d4-fc4867f8bab9.png" width="200" /></td>
-    <img src="https://user-images.githubusercontent.com/24971915/136279935-35f821db-2c21-4ecf-99a0-8aa8f894e722.png" width="200" /></td>
+    <td> <img src="https://github.com/kisra-7/foodie-delivery-app/blob/371ee2c83f14d3f4d48a421e56741dc72d852810/Screenshot%202025-01-10%20042912.png" width="200" /></td>
+    <td><img src="https://github.com/kisra-7/foodie-delivery-app/blob/371ee2c83f14d3f4d48a421e56741dc72d852810/Screenshot%202025-01-10%20042934.png" width="200" /></td>
+    <td> <img src="https://github.com/kisra-7/foodie-delivery-app/blob/371ee2c83f14d3f4d48a421e56741dc72d852810/Screenshot%202025-01-10%20043018.png" width="200" /></td>
+    
+    </tr>
+<tr>    
+  
+  
+   <td> <img src="https://github.com/kisra-7/foodie-delivery-app/blob/371ee2c83f14d3f4d48a421e56741dc72d852810/Screenshot%202025-01-10%20043223.png" width="200" /></td>
+   <td> <img src="https://github.com/kisra-7/foodie-delivery-app/blob/371ee2c83f14d3f4d48a421e56741dc72d852810/Screenshot%202025-01-10%20043244.png" width="200" /></td>
+  
 </tr>
 
+
+
+
 </table>
+
